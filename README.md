@@ -11,8 +11,11 @@ I'm a Computer Engineering student exploring the world of programming, Artificia
 🛠️ Technologies I'm Exploring
 
 -Python
+
 -C++
+
 -Git and GitHub
+
 -Machine Learning
 
 🎯 My Goal
